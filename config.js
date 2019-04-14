@@ -8,4 +8,5 @@ module.exports = {
   postsPerPage: 5, // Required
 
   pathPrefix: '/devblog',
+  siteUrl: 'google.com',
 };
