@@ -1,10 +1,10 @@
 module.exports = {
-  title: 'SuperQ DOC Automation', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'SuperQ Doc Automation', // Required
+  author: 'SuperQ Doc', // Required
+  description: 'Python Automation Specialist',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
-  showShareButtons: true,
+  showShareButtons: false,
   postsPerPage: 5, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
