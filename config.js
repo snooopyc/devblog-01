@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: 'SuperQ DOC Automation', // Required
   author: 'Ryan Fitzgerald', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
